@@ -1,5 +1,3 @@
-import { log } from "core-js";
-
 const initialState = {
     todo: {
             id: 0,
